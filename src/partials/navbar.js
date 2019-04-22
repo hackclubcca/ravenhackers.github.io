@@ -1,12 +1,12 @@
 /*
   JS imports
  */
-import "jquery/dist/jquery.min"
-import "bootstrap/dist/js/bootstrap.min"
+//import "jquery/dist/jquery.min"
+//import "bootstrap/dist/js/bootstrap.min"
 import "bootstrap/dist/css/bootstrap.min.css"
 import "animate.css/animate.min.css"
 import "popper.js/dist/popper.min"
-import "wow.js/dist/wow.min"
+//import "wow.js/dist/wow.min"
 /*
 
   Component Imports
